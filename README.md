@@ -1,2 +1,1 @@
-# pratama
-M DEMIAN P
+Vocer Gofood 20+10+15+5k
