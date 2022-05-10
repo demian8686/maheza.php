@@ -138,7 +138,7 @@ echo "\n";
     } else {
     echo "\n";
     echo '[ '.date('H:i:s').' ] Masukan Link Refferal Yang Benar'.PHP_EOL;
-    echo '[ '.date('H:i:s').' ] Contoh   : https://forward.oneaset.co.id/management/s/RRjmYz?'.PHP_EOL;
+    echo '[ '.date('H:i:s').' ] Contoh   : https://forward.oneaset.co.id/management/s/2amEZz?'.PHP_EOL;
     goto inputReff;
     }
 
@@ -375,7 +375,7 @@ echo "\n";
     } else {
     echo "\n";
     echo '[ '.date('H:i:s').' ] Masukan Link Refferal Yang Benar'.PHP_EOL;
-    echo '[ '.date('H:i:s').' ] Contoh   : https://forward.oneaset.co.id/management/s/RRjmYz?'.PHP_EOL;
+    echo '[ '.date('H:i:s').' ] Contoh   : https://forward.oneaset.co.id/management/s/2amEZz?'.PHP_EOL;
     goto inputReff1;
     }
 
@@ -607,7 +607,7 @@ echo "\n";
         } else {
         echo "\n";
         echo '[ '.date('H:i:s').' ] Masukan Link Refferal Yang Benar'.PHP_EOL;
-        echo '[ '.date('H:i:s').' ] Contoh   : https://forward.oneaset.co.id/management/s/RRjmYz?'.PHP_EOL;
+        echo '[ '.date('H:i:s').' ] Contoh   : https://forward.oneaset.co.id/management/s/2amEZz?'.PHP_EOL;
         goto inputReff2;
         }
     
@@ -861,7 +861,7 @@ echo "\n";
 } else {
 echo "\n";
 echo '[ '.date('H:i:s').' ] Masukan Link Refferal Yang Benar'.PHP_EOL;
-echo '[ '.date('H:i:s').' ] Contoh   : https://forward.oneaset.co.id/management/s/RRjmYz?'.PHP_EOL;
+echo '[ '.date('H:i:s').' ] Contoh   : https://forward.oneaset.co.id/management/s/2amEZz?'.PHP_EOL;
 goto inputReff3;
 }
 
